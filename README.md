@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br><br>I am currently working as a Data Engineer with vast experience in Big Data Technologies and Google Cloud<br>
+<!--🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>-->
+<br>I am currently working as a Data Engineer with vast experience in Big Data Technologies and Google Cloud<br>
 
 
 ## 🌐 Socials:
